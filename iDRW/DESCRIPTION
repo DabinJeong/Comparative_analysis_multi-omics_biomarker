@@ -1,0 +1,11 @@
+Package: iDRW
+Type: Package
+Title: iDRW
+Version: 1.0
+Author: So Yeon Kim
+Maintainer: So Yeon Kim <jebi1771@gmail.com>
+Description: iDRW is an integrative pathway activity inference method using directed random walks on graph. It integrates multiple genomic profiles and transfroms them into a single pathway profile using a pathway-based integrated gene-gene graph.
+License: GPL-2
+LazyData: true
+Imports: igraph, Hmisc, survival, stats
+RoxygenNote: 6.1.1

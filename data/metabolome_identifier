@@ -1,0 +1,410 @@
+Metabolites	Class	HMDB ID													
+AC(0:0)	Acylcarnitines	HMDB0000062													
+AC(2:0)	Acylcarnitines	HMDB0000201													
+AC(3:0)	Acylcarnitines	HMDB0000824													
+AC(3:0-DC)	Acylcarnitines	HMDB0002095													
+AC(3:0-OH)	Acylcarnitines	HMDB0013125													
+AC(3:1)	Acylcarnitines	HMDB0013124													
+AC(4:0)	Acylcarnitines	HMDB0002013													
+AC(4:0-DC)	Acylcarnitines	HMDB0013133													
+AC(4:0-OH)	Acylcarnitines	HMDB0062735													
+AC(4:1)	Acylcarnitines	HMDB0013126													
+AC(4:1-DC)	Acylcarnitines	HMDB0013134													
+AC(5:0)	Acylcarnitines	HMDB0013128													
+AC(5:0-DC)	Acylcarnitines	HMDB0013130													
+AC(5:0-OH)	Acylcarnitines	HMDB0013132													
+AC(5:1)	Acylcarnitines	HMDB0002366													
+AC(5:1-DC)	Acylcarnitines	HMDB0013129													
+AC(6:0)	Acylcarnitines	HMDB0000756													
+AC(6:0-DC)	Acylcarnitines	HMDB0061677													
+AC(6:0-OH)	Acylcarnitines	HMDB0013131													
+AC(6:1)	Acylcarnitines	HMDB0013161													
+AC(7:0)	Acylcarnitines	HMDB0013238													
+AC(7:0-DC)	Acylcarnitines	HMDB0013328													
+AC(8:0)	Acylcarnitines	HMDB0000791													
+AC(8:1)	Acylcarnitines	HMDB0013324													
+AC(8:1-OH)	Acylcarnitines														
+AC(9:0)	Acylcarnitines	HMDB0013288													
+AC(10:0)	Acylcarnitines	HMDB0000651													
+AC(10:1)	Acylcarnitines	HMDB0013205													
+AC(10:2)	Acylcarnitines	HMDB0013325													
+AC(10:3)	Acylcarnitines														
+AC(11:0)	Acylcarnitines	HMDB0006202													
+AC(12:0)	Acylcarnitines	HMDB0002250													
+AC(12:0-DC)	Acylcarnitines	HMDB0013327													
+AC(12:1)	Acylcarnitines	HMDB0013326													
+AC(13:0)	Acylcarnitines														
+AC(14:0)	Acylcarnitines	HMDB0005066													
+AC(14:0-OH)	Acylcarnitines														
+AC(14:1)	Acylcarnitines	HMDB0002014													
+AC(14:1-DC)	Acylcarnitines														
+AC(14:1-OH)	Acylcarnitines	HMDB0013330													
+AC(14:2)	Acylcarnitines	HMDB0013331													
+AC(14:2-OH)	Acylcarnitines														
+AC(15:0)	Acylcarnitines	HMDB0062517													
+AC(16:0)	Acylcarnitines														
+AC(16:0-OH)	Acylcarnitines	HMDB0013336													
+AC(16:1)	Acylcarnitines	HMDB0006317	HMDB0013207												
+AC(16:1-OH)	Acylcarnitines	HMDB0013333													
+AC(16:2)	Acylcarnitines	HMDB0013334													
+AC(16:2-OH)	Acylcarnitines	HMDB0013335													
+AC(17:0)	Acylcarnitines	HMDB0006210													
+AC(18:0)	Acylcarnitines	HMDB0000848													
+AC(18:1)	Acylcarnitines	HMDB0005065	HMDB0006351	HMDB0006464	HMDB0013338										
+AC(18:1-OH)	Acylcarnitines	HMDB0013339													
+AC(18:2)	Acylcarnitines	HMDB0006461	HMDB0006469												
+AC(19:0)	Acylcarnitines	HMDB0006460													
+Ala	Aminoacids	HMDB0000161	HMDB0001310												
+Arg	Aminoacids	HMDB0000517	HMDB0003416												
+Asn	Aminoacids	HMDB0000168	HMDB0033780												
+Asp	Aminoacids	HMDB0000191	HMDB0006483												
+Cit	Aminoacids	HMDB0000904													
+Gln	Aminoacids	HMDB0000641	HMDB0003423												
+Glu	Aminoacids	HMDB0000148	HMDB0003339												
+Gly	Aminoacids	HMDB0000123													
+His	Aminoacids	HMDB0000177													
+Ile	Aminoacids	HMDB0000172	HMDB0000557												
+Lys	Aminoacids	HMDB0000182	HMDB0003405												
+Met	Aminoacids	HMDB0000696													
+Orn	Aminoacids	HMDB0000214	HMDB0003374												
+Phe	Aminoacids	HMDB0000159													
+Pro	Aminoacids	HMDB0000162	HMDB0003411												
+Ser	Aminoacids	HMDB0000187	HMDB0003406												
+Thr	Aminoacids	HMDB0000167	HMDB0004041												
+Trp	Aminoacids	HMDB0000929	HMDB0013609												
+Tyr	Aminoacids	HMDB0000158													
+Val	Aminoacids	HMDB0000883													
+xLeu	Aminoacids	HMDB0000172	HMDB0000687	HMDB0013773											
+Ac-Orn	Biogenic Amines	HMDB0003357													
+ADMA	Biogenic Amines	HMDB0001539													
+alpha-AAA	Biogenic Amines	HMDB0000510													
+c4-OH-Pro	Biogenic Amines	HMDB0240251													
+Carnosine	Biogenic Amines	HMDB0000033													
+Creatinine	Biogenic Amines	HMDB0000562													
+DOPA	Biogenic Amines	HMDB0000181	HMDB0000609												
+Dopamine	Biogenic Amines	HMDB0000073													
+Histamine	Biogenic Amines	HMDB0000870													
+Kynurenine	Biogenic Amines	HMDB0000684													
+Met-SO	Biogenic Amines	HMDB0002005													
+Nitro-Tyr	Biogenic Amines	HMDB0001904													
+PEA	Biogenic Amines	HMDB0012275													
+Putrescine	Biogenic Amines	HMDB0001414													
+Sarcosine	Biogenic Amines	HMDB0000271													
+SDMA	Biogenic Amines	HMDB0003334													
+Serotonin	Biogenic Amines	HMDB0000259													
+Spermidine	Biogenic Amines	HMDB0001257													
+Spermine	Biogenic Amines	HMDB0001256													
+t4-OH-Pro	Biogenic Amines	HMDB0000725													
+Taurine	Biogenic Amines	HMDB0000251													
+CE(16:0)	Cholesterol Esters	HMDB0000885													
+CE(16:1)	Cholesterol Esters	HMDB0000658													
+CE(17:0)	Cholesterol Esters	HMDB0060059													
+CE(17:1)	Cholesterol Esters	HMDB0060060													
+CE(17:2)	Cholesterol Esters														
+CE(18:1)	Cholesterol Esters	HMDB0000918	HMDB0005189												
+CE(18:2)	Cholesterol Esters	HMDB0000610													
+CE(18:3)	Cholesterol Esters	HMDB0010369	HMDB0010370												
+CE(19:2)	Cholesterol Esters														
+CE(19:3)	Cholesterol Esters														
+CE(20:4)	Cholesterol Esters	HMDB0006726	HMDB0010371												
+CE(20:5)	Cholesterol Esters	HMDB0006731													
+CE(22:5)	Cholesterol Esters	HMDB0010374	HMDB0010375												
+CE(22:6)	Cholesterol Esters	HMDB0006733													
+DG(32:1)	Glycerides	HMDB0055962													
+DG(32:2)	Glycerides	HMDB0056156													
+DG(34:1)	Glycerides	HMDB0007185	HMDB0056017												
+DG(34:3)	Glycerides	HMDB0056023	HMDB0056030	HMDB0056163											
+DG(36:2)	Glycerides	HMDB0007137	HMDB0007161	HMDB0007245											
+DG(36:3)	Glycerides	HMDB0007110	HMDB0007111	HMDB0007446	HMDB0007475	HMDB0056049	HMDB0056056	HMDB0056165	HMDB0056183	HMDB0056202					
+DG(36:4)	Glycerides	HMDB0007112	HMDB0007113	HMDB0007504	HMDB0007533	HMDB0056057	HMDB0056282								
+DG(38:0)	Glycerides	HMDB0007115													
+DG(38:5)	Glycerides	HMDB0007312													
+DG(39:0)	Glycerides	HMDB0093971	HMDB0094081	HMDB0094082	HMDB0094189	HMDB0094190	HMDB0094331								
+DG(41:1)	Glycerides														
+DG(42:0)	Glycerides	HMDB0007180	HMDB0007376	HMDB0007600	HMDB0007796	HMDB0056039	HMDB0056063	HMDB0094367	HMDB0094368	HMDB0094489					
+DG(42:1)	Glycerides	HMDB0007181	HMDB0007209	HMDB0007238	HMDB0007797	HMDB0007798	HMDB0007825	HMDB0056047	HMDB0056115						
+DG(42:2)	Glycerides	HMDB0007210	HMDB0007239	HMDB0007267	HMDB0007799	HMDB0007826	HMDB0007827	HMDB0056120	HMDB0056182	HMDB0056201					
+DG(44:3)	Glycerides	HMDB0007442	HMDB0007470	HMDB0007499	HMDB0007806	HMDB0007807	HMDB0007834	HMDB0056117	HMDB0056270						
+DG-O(32:2)	Glycerides														
+DG-O(34:1)	Glycerides														
+DG-O(36:4)	Glycerides														
+TG(44:1)	Glycerides	HMDB0042069	HMDB0042128	HMDB0042273	HMDB0042301	HMDB0042995	HMDB0043163	HMDB0043834							
+TG(44:2)	Glycerides	HMDB0042279	HMDB0042308	HMDB0044030	HMDB0047725	HMDB0047770									
+TG(44:4)	Glycerides														
+TG(46:2)	Glycerides	HMDB0010419	HMDB0042309	HMDB0042338	HMDB0042368	HMDB0042511	HMDB0044031	HMDB0044058	HMDB0044861	HMDB0047726	HMDB0047727	HMDB0047771	HMDB0047793	HMDB0047907	HMDB0048391
+TG(48:1)	Glycerides	HMDB0042188	HMDB0043250	HMDB0044026	HMDB0044053										
+TG(48:2)	Glycerides	HMDB0042571	HMDB0043395	HMDB0044114	HMDB0048457										
+TG(48:3)	Glycerides	HMDB0043424	HMDB0044254												
+TG(49:1)	Glycerides	HMDB0042392	HMDB0043027	HMDB0045506											
+TG(49:2)	Glycerides	HMDB0011706	HMDB0011710	HMDB0042108	HMDB0042572	HMDB0042976	HMDB0043173	HMDB0043200	HMDB0043201	HMDB0043228	HMDB0043285	HMDB0043870	HMDB0047751	HMDB0048436	HMDB0048437
+TG(50:1)	Glycerides	HMDB0042218	HMDB0044027	HMDB0047815	HMDB0048478										
+TG(50:2)	Glycerides	HMDB0005377	HMDB0005430	HMDB0042138	HMDB0043005	HMDB0044942	HMDB0046433								
+TG(50:3)	Glycerides	HMDB0043006	HMDB0043845	HMDB0047957	HMDB0048611										
+TG(50:4)	Glycerides	HMDB0042319	HMDB0042691	HMDB0043007	HMDB0047962	HMDB0048743									
+TG(51:1)	Glycerides	HMDB0042452	HMDB0043195	HMDB0043252	HMDB0043866										
+TG(51:2)	Glycerides	HMDB0042662	HMDB0043872	HMDB0049093	HMDB0049721										
+TG(51:3)	Glycerides	HMDB0043035	HMDB0043483	HMDB0047760	HMDB0049726										
+TG(51:4)	Glycerides	HMDB0042692	HMDB0048439	HMDB0048445	HMDB0049727										
+TG(51:5)	Glycerides	HMDB0042722	HMDB0043438	HMDB0047761	HMDB0048452										
+TG(52:2)	Glycerides	HMDB0045689	HMDB0045740	HMDB0047174	HMDB0049741										
+TG(52:3)	Glycerides	HMDB0042321	HMDB0044333	HMDB0045670	HMDB0049861										
+TG(52:4)	Glycerides	HMDB0044069	HMDB0044872	HMDB0044897	HMDB0047921										
+TG(52:5)	Glycerides	HMDB0048599	HMDB0048641	HMDB0050438											
+TG(52:6)	Glycerides	HMDB0044077	HMDB0044450	HMDB0048943	HMDB0053658										
+TG(52:7)	Glycerides	HMDB0042329	HMDB0044299	HMDB0048985	HMDB0053659										
+TG(53:3)	Glycerides	HMDB0043211	HMDB0044710	HMDB0045522											
+TG(53:4)	Glycerides	HMDB0043038	HMDB0043065	HMDB0043659											
+TG(53:5)	Glycerides	HMDB0043412	HMDB0048448	HMDB0050890											
+TG(53:6)	Glycerides	HMDB0043213	HMDB0043275	HMDB0053670											
+TG(54:2)	Glycerides	HMDB0005383	HMDB0005403	HMDB0044736	HMDB0045490	HMDB0046508	HMDB0048523	HMDB0049761							
+TG(54:3)	Glycerides	HMDB0042199	HMDB0044334	HMDB0045080	HMDB0046441	HMDB0049766									
+TG(54:4)	Glycerides	HMDB0044341	HMDB0045106	HMDB0045897	HMDB0048601	HMDB0053264									
+TG(54:5)	Glycerides	HMDB0042618	HMDB0044072	HMDB0045112	HMDB0049084	HMDB0052429									
+TG(54:6)	Glycerides	HMDB0044613	HMDB0048747	HMDB0050014	HMDB0053653	HMDB0054414									
+TG(54:7)	Glycerides	HMDB0044079	HMDB0045121	HMDB0045428	HMDB0048149	HMDB0048817									
+TG(55:6)	Glycerides	HMDB0043563	HMDB0043774	HMDB0053665											
+TG(55:7)	Glycerides	HMDB0043277	HMDB0053666	HMDB0054651											
+TG(55:8)	Glycerides	HMDB0043507	HMDB0043703	HMDB0052865											
+TG(55:9)	Glycerides	HMDB0043677	HMDB0052871	HMDB0055542											
+TG(56:6)	Glycerides	HMDB0044349	HMDB0047858	HMDB0048283	HMDB0050003										
+TG(56:7)	Glycerides	HMDB0042709	HMDB0052624	HMDB0053749											
+TG(56:8)	Glycerides	HMDB0044573	HMDB0047998	HMDB0050075											
+TG(56:9)	Glycerides	HMDB0042919	HMDB0044385	HMDB0052759											
+LPC(9:0)	Glycerophospholipids														
+LPC(12:0)	Glycerophospholipids														
+LPC(14:0)	Glycerophospholipids	HMDB0010379													
+LPC(15:0)	Glycerophospholipids	HMDB0010381													
+LPC(16:0)	Glycerophospholipids	HMDB0010382	HMDB0061702												
+LPC(16:1)	Glycerophospholipids	HMDB0010383													
+LPC(17:0)	Glycerophospholipids	HMDB0012108													
+LPC(17:1)	Glycerophospholipids														
+LPC(18:0)	Glycerophospholipids	HMDB0010384	HMDB0011128												
+LPC(18:1)	Glycerophospholipids	HMDB0002815	HMDB0010385	HMDB0061701											
+LPC(18:2)	Glycerophospholipids	HMDB0010386	HMDB0061700												
+LPC(20:0)	Glycerophospholipids	HMDB0010390													
+LPC(20:1)	Glycerophospholipids	HMDB0010391													
+LPC(20:2)	Glycerophospholipids	HMDB0010392													
+LPC(20:3)	Glycerophospholipids	HMDB0010393	HMDB0010394												
+LPC(20:4)	Glycerophospholipids	HMDB0010395	HMDB0010396												
+LPC(22:5)	Glycerophospholipids	HMDB0010402	HMDB0010403												
+LPC(22:6)	Glycerophospholipids	HMDB0010404													
+LPC(24:0)	Glycerophospholipids	HMDB0010405													
+LPC(24:1)	Glycerophospholipids	HMDB0010406													
+LPC-O(16:1)	Glycerophospholipids	HMDB0010407													
+LPC-O(17:1)	Glycerophospholipids														
+LPC-O(18:0)	Glycerophospholipids	HMDB0011149	HMDB0062689												
+LPC-O(18:1)	Glycerophospholipids	HMDB0013122													
+LPC-O(18:2)	Glycerophospholipids	HMDB0010408													
+PC(24:0)	Glycerophospholipids														
+PC(25:0)	Glycerophospholipids														
+PC(26:0)	Glycerophospholipids														
+PC(27:0)	Glycerophospholipids														
+PC(27:1)	Glycerophospholipids														
+PC(28:1)	Glycerophospholipids	HMDB0007867	HMDB0007899												
+PC(29:0)	Glycerophospholipids	HMDB0007868	HMDB0007932												
+PC(29:1)	Glycerophospholipids	HMDB0007901	HMDB0007933												
+PC(29:2)	Glycerophospholipids														
+PC(30:0)	Glycerophospholipids	HMDB0007869	HMDB0007934	HMDB0007965											
+PC(30:1)	Glycerophospholipids	HMDB0007870													
+PC(30:2)	Glycerophospholipids	HMDB0007999													
+PC(30:3)	Glycerophospholipids														
+PC(31:0)	Glycerophospholipids	HMDB0007935													
+PC(31:1)	Glycerophospholipids	HMDB0007936	HMDB0008000												
+PC(31:2)	Glycerophospholipids														
+PC(31:3)	Glycerophospholipids														
+PC(32:0)	Glycerophospholipids	HMDB0000564	HMDB0007871	HMDB0008031											
+PC(32:1)	Glycerophospholipids	HMDB0007872	HMDB0007873	HMDB0007969	HMDB0008097										
+PC(32:2)	Glycerophospholipids	HMDB0007874	HMDB0008002												
+PC(32:3)	Glycerophospholipids	HMDB0007876													
+PC(32:4)	Glycerophospholipids	HMDB0007877	HMDB0007908	HMDB0007909	HMDB0008164	HMDB0008197	HMDB0008229								
+PC(32:5)	Glycerophospholipids	HMDB0007910	HMDB0008230												
+PC(32:6)	Glycerophospholipids														
+PC(33:0)	Glycerophospholipids	HMDB0008033													
+PC(33:1)	Glycerophospholipids	HMDB0007939													
+PC(33:2)	Glycerophospholipids	HMDB0007940	HMDB0008132												
+PC(33:3)	Glycerophospholipids	HMDB0007941	HMDB0007942	HMDB0008165	HMDB0008198										
+PC(33:4)	Glycerophospholipids	HMDB0007943	HMDB0008231												
+PC(33:5)	Glycerophospholipids														
+PC(34:0)	Glycerophospholipids	HMDB0007970	HMDB0008034	HMDB0008262											
+PC(34:1)	Glycerophospholipids	HMDB0007971	HMDB0007972	HMDB0008003	HMDB0008035	HMDB0008100									
+PC(34:2)	Glycerophospholipids	HMDB0007973	HMDB0008004	HMDB0008005	HMDB0008101	HMDB0008133									
+PC(34:3)	Glycerophospholipids	HMDB0007974	HMDB0007975	HMDB0008006											
+PC(34:4)	Glycerophospholipids	HMDB0007883	HMDB0007976												
+PC(34:5)	Glycerophospholipids	HMDB0007885	HMDB0007916	HMDB0007917	HMDB0008009	HMDB0008233	HMDB0008427	HMDB0008460	HMDB0008492						
+PC(35:0)	Glycerophospholipids	HMDB0007944	HMDB0008264												
+PC(35:1)	Glycerophospholipids	HMDB0007945	HMDB0008297												
+PC(35:2)	Glycerophospholipids	HMDB0007946	HMDB0008330												
+PC(35:3)	Glycerophospholipids	HMDB0007947	HMDB0007948	HMDB0008363	HMDB0008396										
+PC(35:4)	Glycerophospholipids	HMDB0007949	HMDB0007950	HMDB0008428	HMDB0008461										
+PC(35:5)	Glycerophospholipids	HMDB0007951	HMDB0008494												
+PC(36:0)	Glycerophospholipids	HMDB0007886	HMDB0008036	HMDB0008265	HMDB0008525										
+PC(36:1)	Glycerophospholipids	HMDB0007978	HMDB0008038	HMDB0008069	HMDB0008102										
+PC(36:2)	Glycerophospholipids	HMDB0007979	HMDB0008039	HMDB0008070	HMDB0008135										
+PC(36:3)	Glycerophospholipids	HMDB0007980	HMDB0007981	HMDB0008040	HMDB0008105										
+PC(36:4)	Glycerophospholipids	HMDB0007982	HMDB0008042	HMDB0008106	HMDB0008107	HMDB0008138	HMDB0008170	HMDB0008203	HMDB0008234	HMDB0008429					
+PC(36:5)	Glycerophospholipids	HMDB0007984	HMDB0008015												
+PC(36:6)	Glycerophospholipids	HMDB0007892	HMDB0008206												
+PC(37:0)	Glycerophospholipids	HMDB0007953	HMDB0008527												
+PC(37:1)	Glycerophospholipids	HMDB0007952	HMDB0008560												
+PC(37:2)	Glycerophospholipids	HMDB0007954	HMDB0008592												
+PC(37:3)	Glycerophospholipids														
+PC(37:4)	Glycerophospholipids	HMDB0007955	HMDB0008625												
+PC(37:5)	Glycerophospholipids	HMDB0007956	HMDB0007957	HMDB0008658	HMDB0008691										
+PC(37:6)	Glycerophospholipids	HMDB0007958	HMDB0008724												
+PC(37:7)	Glycerophospholipids														
+PC(38:0)	Glycerophospholipids	HMDB0007893	HMDB0007985	HMDB0008043	HMDB0008267	HMDB0008528	HMDB0008755								
+PC(38:1)	Glycerophospholipids	HMDB0007894	HMDB0007986	HMDB0008044	HMDB0008109	HMDB0008268	HMDB0008269								
+PC(38:2)	Glycerophospholipids	HMDB0008333	HMDB0008562	HMDB0008789											
+PC(38:3)	Glycerophospholipids	HMDB0008020	HMDB0008046	HMDB0008047											
+PC(38:4)	Glycerophospholipids	HMDB0007988	HMDB0008048	HMDB0008112	HMDB0008113										
+PC(38:5)	Glycerophospholipids	HMDB0007989	HMDB0007990	HMDB0008050	HMDB0008114										
+PC(38:6)	Glycerophospholipids	HMDB0007991	HMDB0008083	HMDB0008116	HMDB0008147	HMDB0008434	HMDB0008499	HMDB0008725							
+PC(38:7)	Glycerophospholipids	HMDB0008023	HMDB0008244	HMDB0008435	HMDB0008726										
+PC(39:0)	Glycerophospholipids	HMDB0007959	HMDB0008757												
+PC(39:1)	Glycerophospholipids	HMDB0007960	HMDB0008790												
+PC(39:2)	Glycerophospholipids														
+PC(39:3)	Glycerophospholipids														
+PC(39:4)	Glycerophospholipids														
+PC(39:5)	Glycerophospholipids														
+PC(39:6)	Glycerophospholipids														
+PC(39:7)	Glycerophospholipids														
+PC(40:1)	Glycerophospholipids	HMDB0007993	HMDB0008052	HMDB0008084	HMDB0008117	HMDB0008275									
+PC(40:2)	Glycerophospholipids	HMDB0008276	HMDB0008308												
+PC(40:3)	Glycerophospholipids	HMDB0008086	HMDB0008119	HMDB0008277	HMDB0008278										
+PC(40:4)	Glycerophospholipids	HMDB0008054	HMDB0008279	HMDB0008628											
+PC(40:5)	Glycerophospholipids	HMDB0008055	HMDB0008056	HMDB0008120											
+PC(40:6)	Glycerophospholipids	HMDB0008057	HMDB0008089												
+PC(40:7)	Glycerophospholipids	HMDB0008090	HMDB0008123												
+PC(40:8)	Glycerophospholipids	HMDB0008188	HMDB0008476	HMDB0008698											
+PC(40:9)	Glycerophospholipids	HMDB0008253	HMDB0008478	HMDB0008700											
+PC(41:1)	Glycerophospholipids														
+PC(41:2)	Glycerophospholipids														
+PC(41:3)	Glycerophospholipids														
+PC(41:4)	Glycerophospholipids														
+PC(41:5)	Glycerophospholipids														
+PC(41:8)	Glycerophospholipids														
+PC(42:0)	Glycerophospholipids	HMDB0008058	HMDB0008282	HMDB0008537	HMDB0008760										
+PC(42:1)	Glycerophospholipids	HMDB0008059	HMDB0008124	HMDB0008283	HMDB0008538	HMDB0008762									
+PC(42:2)	Glycerophospholipids	HMDB0008092	HMDB0008125	HMDB0008157	HMDB0008284	HMDB0008316	HMDB0008348	HMDB0008539	HMDB0008570	HMDB0008602	HMDB0008763	HMDB0008794	HMDB0008795	HMDB0011330	
+PC(42:3)	Glycerophospholipids	HMDB0008190	HMDB0008381	HMDB0008540	HMDB0008796										
+PC(42:4)	Glycerophospholipids	HMDB0008191													
+PC(42:5)	Glycerophospholipids	HMDB0008287													
+PC(42:6)	Glycerophospholipids	HMDB0008288													
+PC(42:7)	Glycerophospholipids	HMDB0008321	HMDB0008514	HMDB0008609	HMDB0008735										
+PC(42:10)	Glycerophospholipids	HMDB0008485	HMDB0008516	HMDB0008675	HMDB0008740										
+PC(43:2)	Glycerophospholipids														
+PC(43:6)	Glycerophospholipids														
+PC(44:1)	Glycerophospholipids	HMDB0008290	HMDB0008322	HMDB0008546	HMDB0008577	HMDB0008768	HMDB0008800								
+PC(44:3)	Glycerophospholipids	HMDB0008356	HMDB0008388	HMDB0008579	HMDB0008611	HMDB0008770	HMDB0008802								
+PC(44:5)	Glycerophospholipids	HMDB0008454	HMDB0008519	HMDB0008550	HMDB0008580	HMDB0008644	HMDB0008709	HMDB0008774	HMDB0008805						
+PC(44:6)	Glycerophospholipids	HMDB0008520	HMDB0008551	HMDB0008581	HMDB0008613	HMDB0008645	HMDB0008677	HMDB0008742	HMDB0008807						
+PC(44:7)	Glycerophospholipids	HMDB0008583	HMDB0008614	HMDB0008615	HMDB0008678	HMDB0008711	HMDB0008743								
+PC(44:10)	Glycerophospholipids	HMDB0008649	HMDB0008680	HMDB0008681	HMDB0008713	HMDB0008714	HMDB0008745								
+PC(44:12)	Glycerophospholipids	HMDB0008748													
+PC(46:1)	Glycerophospholipids	HMDB0008553	HMDB0008584	HMDB0008776	HMDB0008808										
+PC(46:2)	Glycerophospholipids	HMDB0008585	HMDB0008617	HMDB0008777	HMDB0008809										
+PC-O(26:0)	Glycerophospholipids														
+PC-O(26:1)	Glycerophospholipids														
+PC-O(28:0)	Glycerophospholipids														
+PC-O(28:1)	Glycerophospholipids														
+PC-O(29:0)	Glycerophospholipids														
+PC-O(30:0)	Glycerophospholipids	HMDB0013341													
+PC-O(30:1)	Glycerophospholipids	HMDB0013402	HMDB0013403												
+PC-O(30:2)	Glycerophospholipids	HMDB0013410													
+PC-O(31:0)	Glycerophospholipids														
+PC-O(31:1)	Glycerophospholipids	HMDB0007961	HMDB0011205												
+PC-O(31:3)	Glycerophospholipids														
+PC-O(32:0)	Glycerophospholipids														
+PC-O(32:1)	Glycerophospholipids	HMDB0007896	HMDB0007994	HMDB0013404											
+PC-O(32:2)	Glycerophospholipids	HMDB0013411													
+PC-O(32:3)	Glycerophospholipids														
+PC-O(33:0)	Glycerophospholipids														
+PC-O(33:1)	Glycerophospholipids														
+PC-O(33:2)	Glycerophospholipids														
+PC-O(33:3)	Glycerophospholipids														
+PC-O(33:4)	Glycerophospholipids														
+PC-O(33:6)	Glycerophospholipids														
+PC-O(34:0)	Glycerophospholipids	HMDB0013405													
+PC-O(34:1)	Glycerophospholipids	HMDB0013426													
+PC-O(34:2)	Glycerophospholipids	HMDB0011151													
+PC-O(34:3)	Glycerophospholipids	HMDB0013413													
+PC-O(34:4)	Glycerophospholipids														
+PC-O(35:3)	Glycerophospholipids														
+PC-O(35:4)	Glycerophospholipids														
+PC-O(36:0)	Glycerophospholipids	HMDB0013406	HMDB0013417												
+PC-O(36:1)	Glycerophospholipids	HMDB0013414	HMDB0013427												
+PC-O(36:2)	Glycerophospholipids	HMDB0011243	HMDB0013418	HMDB0013428											
+PC-O(36:3)	Glycerophospholipids	HMDB0013425	HMDB0013429												
+PC-O(36:4)	Glycerophospholipids	HMDB0013407	HMDB0013435												
+PC-O(36:5)	Glycerophospholipids	HMDB0011220	HMDB0013415												
+PC-O(36:6)	Glycerophospholipids														
+PC-O(37:6)	Glycerophospholipids														
+PC-O(37:7)	Glycerophospholipids														
+PC-O(38:0)	Glycerophospholipids	HMDB0013408	HMDB0013419												
+PC-O(38:1)	Glycerophospholipids	HMDB0013408	HMDB0013419												
+PC-O(38:2)	Glycerophospholipids	HMDB0013416	HMDB0013430												
+PC-O(38:3)	Glycerophospholipids	HMDB0013431	HMDB0013436												
+PC-O(38:4)	Glycerophospholipids	HMDB0013420													
+PC-O(38:5)	Glycerophospholipids	HMDB0011253	HMDB0013432												
+PC-O(38:6)	Glycerophospholipids	HMDB0013409													
+PC-O(40:0)	Glycerophospholipids	HMDB0013421													
+PC-O(40:1)	Glycerophospholipids	HMDB0013433													
+PC-O(40:2)	Glycerophospholipids	HMDB0013437													
+PC-O(40:3)	Glycerophospholipids	HMDB0013445	HMDB0013446												
+PC-O(40:4)	Glycerophospholipids	HMDB0013442													
+PC-O(40:5)	Glycerophospholipids	HMDB0013444													
+PC-O(40:6)	Glycerophospholipids	HMDB0013422													
+PC-O(40:7)	Glycerophospholipids														
+PC-O(40:8)	Glycerophospholipids														
+PC-O(42:0)	Glycerophospholipids	HMDB0013443													
+PC-O(42:1)	Glycerophospholipids	HMDB0013434	HMDB0013447												
+PC-O(42:2)	Glycerophospholipids	HMDB0013438													
+PC-O(42:3)	Glycerophospholipids	HMDB0013458	HMDB0013459												
+PC-O(42:4)	Glycerophospholipids	HMDB0013448	HMDB0013454												
+PC-O(42:5)	Glycerophospholipids	HMDB0013451													
+PC-O(42:6)	Glycerophospholipids														
+PC-O(44:3)	Glycerophospholipids	HMDB0013449	HMDB0013452												
+PC-O(44:4)	Glycerophospholipids	HMDB0013453	HMDB0013455	HMDB0013460											
+PC-O(44:5)	Glycerophospholipids	HMDB0013456													
+PC-O(44:6)	Glycerophospholipids	HMDB0013450	HMDB0013457												
+Cer(34:0)	Sphingolipids	HMDB0011760													
+Cer(34:1)	Sphingolipids	HMDB0004949													
+Cer(38:1)	Sphingolipids	HMDB0004951													
+Cer(40:1)	Sphingolipids	HMDB0004952													
+Cer(41:1)	Sphingolipids	HMDB0000950													
+Cer(42:1)	Sphingolipids	HMDB0004956	HMDB0011769												
+Cer(42:2)	Sphingolipids	HMDB0004953													
+Cer(43:1)	Sphingolipids	HMDB0004957													
+Cer(44:0)	Sphingolipids	HMDB0011771													
+SM(30:1)	Sphingolipids	HMDB0012096													
+SM(31:0)	Sphingolipids														
+SM(31:1)	Sphingolipids														
+SM(32:1)	Sphingolipids	HMDB0012097													
+SM(32:2)	Sphingolipids														
+SM(33:1)	Sphingolipids														
+SM(33:2)	Sphingolipids														
+SM(34:1)	Sphingolipids	HMDB0010169	HMDB0013464												
+SM(34:2)	Sphingolipids														
+SM(35:1)	Sphingolipids														
+SM(36:0)	Sphingolipids	HMDB0012087													
+SM(36:1)	Sphingolipids	HMDB0001348													
+SM(36:2)	Sphingolipids	HMDB0012100	HMDB0012101												
+SM(37:1)	Sphingolipids														
+SM(38:1)	Sphingolipids	HMDB0012102													
+SM(38:2)	Sphingolipids	HMDB0013465													
+SM(38:3)	Sphingolipids														
+SM(39:1)	Sphingolipids														
+SM(39:2)	Sphingolipids														
+SM(40:1)	Sphingolipids	HMDB0012103													
+SM(40:2)	Sphingolipids	HMDB0011694	HMDB0012104												
+SM(40:4)	Sphingolipids														
+SM(41:1)	Sphingolipids	HMDB0011695	HMDB0012105												
+SM(41:2)	Sphingolipids	HMDB0011696													
+SM(42:1)	Sphingolipids	HMDB0011697	HMDB0012095												
+SM(42:2)	Sphingolipids	HMDB0012107													
+SM(42:3)	Sphingolipids														
+SM(43:1)	Sphingolipids														
+SM(43:2)	Sphingolipids	HMDB0011699													
+SM(44:1)	Sphingolipids	HMDB0011698													
+SM(44:2)	Sphingolipids	HMDB0013461													
+H1	Sugars	HMDB0000122	HMDB0000143	HMDB0000169	HMDB0000211	HMDB0000660	HMDB0006088								
