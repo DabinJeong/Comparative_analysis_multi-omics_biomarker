@@ -19,6 +19,10 @@ Implemented the following tools in <a href="https://www.nextflow.io">nextflow</a
 # Setup
 ## Build docker image
 ~~~
+# Pull base image from docker hub
+docker pull dabinjeong/cuda:10.1-cudnn7-devel-ubuntu18.04
+
+# Build docker image
 docker build --tag biomarker_comparison:0.1.1 .
 ~~~
 ## Install workflow manager: Nextflow
